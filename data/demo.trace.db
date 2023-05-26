@@ -225,3 +225,30 @@ org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-21
 org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
 2023-05-26 15:20:51 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
+2023-05-26 17:12:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
+2023-05-26 17:13:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
+2023-05-26 17:14:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
+2023-05-26 17:15:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
+2023-05-26 17:16:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "'Immerse yourself in the timeless beauty of Rome, where ancient history blends w... (267)"; SQL statement:
+insert into destination (description,end_date,geolocation,start_date,title,id) values (?,?,?,?,?,default) [22001-214]
+2023-05-26 17:16:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "'Immerse yourself in the timeless beauty of Rome, where ancient history blends w... (267)"; SQL statement:
+insert into destination (description,end_date,geolocation,start_date,title,id) values (?,?,?,?,?,default) [22001-214]
+2023-05-26 17:17:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "'Immerse yourself in the timeless beauty of Rome, where ancient history blends w... (267)"; SQL statement:
+insert into destination (description,end_date,geolocation,start_date,title,id) values (?,?,?,?,?,default) [22001-214]
+2023-05-26 17:18:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
+2023-05-26 17:21:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
+2023-05-26 17:24:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
+2023-05-26 17:25:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
+2023-05-26 17:27:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-214]
